@@ -6,7 +6,8 @@ TestMethod(); //kald af en metode
 int resultat = MyMethods.Gange(3, 4);
 Console.WriteLine("Resultat: "+resultat);
 
-//Alle metoder skal defineres inde i en klasse og ligge til //sidst i koden
+//Alle metoder skal ligge til sidst i koden.
+//De kan også pakkes ind i en klasse, hvis man vil
 
     void TestMethod()
     {
